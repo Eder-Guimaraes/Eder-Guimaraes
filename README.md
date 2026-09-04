@@ -29,6 +29,7 @@ Atualmente estou construindo uma base sólida em C# e no ecossistema .NET, aprof
 ### 🗄️ Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge)
 
 ---
