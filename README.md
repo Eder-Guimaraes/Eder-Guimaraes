@@ -35,8 +35,9 @@ Atualmente estou construindo uma base sólida em C# e no ecossistema .NET, aprof
 
 ### 📖 Também estudando
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ---
 
 ### 🛠 Ferramentas
@@ -52,10 +53,10 @@ Atualmente estou construindo uma base sólida em C# e no ecossistema .NET, aprof
 
 - ✔️ C#
 - ✔️ Programação Orientada a Objetos (POO)
-- ✔️ SQL
+- ✔️ SQL (MySQL e SQL Server)
 - ✔️ Git e GitHub
-- ✔️ HTML, CSS e JavaScript
-- ✔️ PHP (como linguagem complementar)
+- ✔️ HTML, CSS e JavaScript (Básico)
+- ✔️ Python (como linguagem complementar e de apoio)
 
 ### 🎯 Próximos passos
 
@@ -80,7 +81,6 @@ Também tenho interesse em projetos envolvendo IoT, sistemas embarcados e automa
 
 - 💧 AcquaCEG *(em desenvolvimento)*
 - ♟️ Xadrez Console *(C# e POO)*
-- 🐜 Mundo dos Tamanduás *(HTML, Tailwind CSS e JavaScript)*
 
 ---
 
