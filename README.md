@@ -47,7 +47,7 @@ Também estudo tecnologias do ecossistema .NET como complemento à minha formaç
 
 ---
 
-## 🗄️ Banco de Dados
+## 🗄️ Banco de Dados 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
